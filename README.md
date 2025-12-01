@@ -1,1 +1,1 @@
-Server for audio of NexMeet app.
+Audio service for NexMeet using Web Sockets.
